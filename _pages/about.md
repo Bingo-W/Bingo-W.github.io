@@ -18,7 +18,8 @@ redirect_from:
  Please drop me an email if you are interested in working with me.
 
  Latest News
- -----------
+===
+
  - January 2024 - Attended Bloomberg Ph.D. Fellowship Virtual Symposium.
  - October 2023 - Began my PhD study at UCL.
  - October 2023 - Invited to give a talk on Continual Meta-learning at Sun Yat-sen University.

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bin Wu"
+title                    : "Bin Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Bin Wu"
 description              : &description "personal description"
