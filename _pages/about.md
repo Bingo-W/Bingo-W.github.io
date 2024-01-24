@@ -9,16 +9,16 @@ redirect_from:
 ---
   Hey I am Bin, welcome to my homepage!
 
- I am a PhD student supervised by Prof. Emine Yilmaz at University College London, affiliated with Web Intelligence of Centre for Artificial Intelligence. I also serve as the Bloomberg PhD Fellow, advised by Dr. Edgar Meij.
+ I am a PhD student supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) at University College London, affiliated with [Web Intelligence](https://wi.cs.ucl.ac.uk/) of [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/). I also serve as the Bloomberg PhD Fellow, advised by Dr. [Edgar Meij](https://edgar.meij.pro/).
 
- Prior to pursuing my Ph.D. degree, I obtained a Master's degree under the supervision of Prof. Shangsong Liang (also advised by Dr. Zaiqiao Meng and Dr. Qiang Zhang) at Sun Yat-sen University. I also have a wonderful research collaboration Dr. Qiang Zhang at Zhejiang University.
+ Prior to pursuing my Ph.D. degree, I obtained a Master's degree under the supervision of Prof. [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&hl=en) (also advised by Dr. [Zaiqiao Meng](https://mengzaiqiao.github.io/) and Dr. [Qiang Zhang](https://qiangairesearcher.github.io/)) at Sun Yat-sen University. I also have a wonderful research collaboration with Dr. Qiang Zhang at Zhejiang University.
 
  My research interests lies in the area of machine learning, information retrieval and natural language processing. My current focus is the personalisation of LLMs, especially how to enable LLMs to provide personalised service.
 
  Please drop me an email if you are interested in working with me.
 
- Latest News
-===
+### Latest News
+
 
  - January 2024 - Attended Bloomberg Ph.D. Fellowship Virtual Symposium.
  - October 2023 - Began my PhD study at UCL.
