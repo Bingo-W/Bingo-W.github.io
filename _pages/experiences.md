@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Experience"
+permalink: /experiences/
 author_profile: true
 ---
 
-Education Experience
-======
+## Education Experience
 
 **Ph.D in Computer Science**\
 [University College London](https://www.ucl.ac.uk/), 2027 (expected)
@@ -17,8 +16,7 @@ Education Experience
 **Bachelor in Software Engineering**\
 [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), 2020
 
-Teaching Experience
-=====
+## Teaching Experience
 
 **[COMP0084](https://www.ucl.ac.uk/module-catalogue/modules/information-retrieval-and-data-mining-COMP0084): Information Retrieval and Data Mining** \
 University College London, Spring 2024
@@ -29,8 +27,7 @@ University College London, Spring 2024
 **Machine Learning and Data Mining** \
 Sun Yat-sen University, Spring 2022
 
-Work Experience
-=====
+## Work Experience
 
 **Research Assistant in AI**\
 [City University of Hong Kong](https://www.cityu.edu.hk/), *May 2023 - September 2023*
