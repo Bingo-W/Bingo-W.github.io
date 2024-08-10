@@ -29,6 +29,9 @@ Sun Yat-sen University, *Spring 2022*
 
 ## Work Experience
 
+**AI Intern** \
+Bloomberg, London, May 2024 - Current
+
 **Research Assistant in AI**\
 [City University of Hong Kong](https://www.cityu.edu.hk/), *May 2023 - September 2023*
 

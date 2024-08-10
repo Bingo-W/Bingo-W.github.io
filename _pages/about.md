@@ -13,13 +13,14 @@ redirect_from:
 
  Prior to pursuing my Ph.D. degree, I obtained a Master's degree under the supervision of Prof. [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&hl=en) (also advised by Dr. [Zaiqiao Meng](https://mengzaiqiao.github.io/) and Dr. [Qiang Zhang](https://qiangairesearcher.github.io/)) at Sun Yat-sen University. I also have a wonderful research collaboration with Dr. Qiang Zhang at Zhejiang University.
 
- My research interests lies in the area of machine learning, information retrieval and natural language processing. My current focus is the personalisation of LLMs, especially how to personalise LLMs for individuals.
+ My research interests lies in the area of machine learning, information retrieval and natural language processing. My current focus is the personalisation of LLMs, and recently I focus on how to design LLM-agent for tool using and discovery.
 
  Please drop me an email if you are interested in cooperating with me.
 
 ### Latest News
-
-
+ - **June 2024 - Released three Preprints about Personalization, and Retrieval-Augmented Generation.**
+ - **May 2024 - Released One Preprint about LLM Alignment.**
+ - **May 2024 - Began My Summer Intern at Bloomberg, London.**
  - January 2024 - Attended Bloomberg Ph.D. Fellowship Virtual Symposium.
  - October 2023 - Began my PhD study at UCL.
  - October 2023 - Invited to give a talk on Continual Meta-learning at Sun Yat-sen University.
