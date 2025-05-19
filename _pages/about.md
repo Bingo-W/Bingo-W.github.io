@@ -9,22 +9,18 @@ redirect_from:
 ---
   Hey I am Bin, welcome to my homepage!
 
- I am a PhD student supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) at University College London, affiliated with [Web Intelligence](https://wi.cs.ucl.ac.uk/) of [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/). I also serve as the Bloomberg PhD Fellow, advised by Dr. [Edgar Meij](https://edgar.meij.pro/).
+ I am a PhD student supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) at University College London, affiliated with [Web Intelligence](https://wi.cs.ucl.ac.uk/) of [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/). I also serve as the Bloomberg PhD Fellow, advised by Dr. [Edgar Meij](https://edgar.meij.pro/). While at UCL, I have spent my summer time at Bloomberg (in 2024) as a AI intern, supervised by Dr. [Mohamed Yahya](https://myahya.org/) and Dr. [Sawan Kumar](https://sawankumar28.github.io/).
 
  Prior to pursuing my Ph.D. degree, I obtained a Master's degree under the supervision of Prof. [Shangsong Liang](https://scholar.google.com/citations?user=4uggVcIAAAAJ&hl=en) (also advised by Dr. [Zaiqiao Meng](https://mengzaiqiao.github.io/) and Dr. [Qiang Zhang](https://qiangairesearcher.github.io/)) at Sun Yat-sen University. I also have a wonderful research collaboration with Dr. Qiang Zhang at Zhejiang University.
 
- My research interests lies in the area of machine learning, information retrieval and natural language processing. My current focus is the personalisation of LLMs, and recently I focus on how to design LLM-agent for tool using and discovery.
+ My research interests lies in the area of machine learning, information retrieval and natural language processing. My current focus is Agentic AI and Self-improving AI, and recently I focus on how to optimize LLM-agent for tool utilization.
 
- Please drop me an email if you are interested in cooperating with me.
+ Please feel free to drop me an email if you are interested in cooperating with me.
 
 ### Latest News
- - **June 2024 - Released three Preprints about Personalization, and Retrieval-Augmented Generation.**
- - **May 2024 - Released One Preprint about LLM Alignment.**
- - **May 2024 - Began My Summer Intern at Bloomberg, London.**
+ - **May 2025 - Two papers accepted by ACL 2025.**
+ - April 2025 - One paper accepted by AIED 2025.
+ - **January 2025 - One paper accepted by NAACL 2025.**
+ - **Septenber 2024 - One paper accepted by NeurIPS 2024.**
+ - May 2024 - Began My Summer Intern at Bloomberg, London.
  - January 2024 - Attended Bloomberg Ph.D. Fellowship Virtual Symposium.
- - October 2023 - Began my PhD study at UCL.
- - October 2023 - Invited to give a talk on Continual Meta-learning at Sun Yat-sen University.
- - June 2023 - Awarded with Bloomberg Data Science Ph.D. Fellowship.
- - April 2023 - One first-author paper accepted by ICML 2023.
- - April 2023 - One paper accepted by IJCAI 2023.
- - March 2023 - One first-author journal paper accepted by the ACM Transactions on the Web (TWEB).
