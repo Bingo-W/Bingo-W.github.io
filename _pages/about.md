@@ -18,6 +18,8 @@ redirect_from:
  Please feel free to drop me an email if you are interested in cooperating with me.
 
 ### Latest News
+ - **July 2025 - Our paper was awarded "Best Student Paper"**
+ - **June 2025 - Began my summer intern at Bloomberg**
  - **May 2025 - Two papers accepted by ACL 2025.**
  - April 2025 - One paper accepted by AIED 2025.
  - **January 2025 - One paper accepted by NAACL 2025.**
