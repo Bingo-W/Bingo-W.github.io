@@ -19,7 +19,7 @@ redirect_from:
 
 ### Latest News
  - **August 2025 - :tada: One paper accepted by CIKM 2025**
- - July 2025 - Attended ACL 2025 in Vienna, Austria :flag-at:
+ - July 2025 - Attended ACL 2025 in Vienna, Austria
  - **July 2025 - :tada: Our AIED 2025 paper was awarded "Best Student Paper"**
  - **June 2025 - Began my summer intern at Bloomberg**
  - **May 2025 - :tada: Two papers accepted by ACL 2025.**
