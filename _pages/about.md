@@ -18,11 +18,13 @@ redirect_from:
  Please feel free to drop me an email if you are interested in cooperating with me.
 
 ### Latest News
- - **July 2025 - Our AIED 2025 paper was awarded "Best Student Paper"**
+ - **August 2025 - :tada: One paper accepted by CIKM 2025**
+ - July 2025 - Attended ACL 2025 in Vienna, Austria :flag-at:
+ - **July 2025 - :tada: Our AIED 2025 paper was awarded "Best Student Paper"**
  - **June 2025 - Began my summer intern at Bloomberg**
- - **May 2025 - Two papers accepted by ACL 2025.**
- - April 2025 - One paper accepted by AIED 2025.
- - **January 2025 - One paper accepted by NAACL 2025.**
- - **Septenber 2024 - One paper accepted by NeurIPS 2024.**
+ - **May 2025 - :tada: Two papers accepted by ACL 2025.**
+ - April 2025 - :tada: One paper accepted by AIED 2025.
+ - **January 2025 - :tada: One paper accepted by NAACL 2025.**
+ - **Septenber 2024 - :tada: One paper accepted by NeurIPS 2024.**
  - May 2024 - Began My Summer Intern at Bloomberg, London.
  - January 2024 - Attended Bloomberg Ph.D. Fellowship Virtual Symposium.
