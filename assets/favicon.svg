@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Rounded square background -->
+  <rect width="32" height="32" rx="7" fill="#0f766e"/>
+  <!-- "B" character (left) -->
+  <text
+    x="7"
+    y="22"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-size="15"
+    font-weight="700"
+    fill="white"
+    letter-spacing="-0.5"
+  >BW</text>
+</svg>
