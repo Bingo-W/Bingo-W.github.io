@@ -1216,6 +1216,30 @@ h1, h2, h3, h4, h5, h6 {
   gap: var(--sp-1);
 }
 
+.exp-heading {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-3);
+}
+
+.exp-logo {
+  display: inline-block;
+  flex: 0 0 5.25rem;
+  width: 5.25rem;
+  height: 2.5rem;
+}
+
+.exp-logo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: left center;
+}
+
+.exp-logo-sysu {
+.exp-logo-sysu img { width: 2.5rem; }
+
 .exp-role {
   font-size: var(--fs-base);
   font-weight: var(--fw-semibold);
